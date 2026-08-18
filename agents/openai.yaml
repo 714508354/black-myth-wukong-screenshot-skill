@@ -1,0 +1,13 @@
+interface:
+  display_name: 黑神话悟空游戏截图
+  short_description: 自动匹配悟空人物与四种界面的16:9东方暗黑动作游戏截图
+  default_prompt: 使用 $black-myth-wukong-screenshot 将我上传的图片处理成指定的黑神话悟空游戏界面模式。
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
