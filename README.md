@@ -1,8 +1,15 @@
-# 黑神话悟空游戏截图 Skill 使用说明
+<img width="1672" height="941" alt="acc7dfdf-f581-4646-92bc-a4de4979c8f2" src="https://github.com/user-attachments/assets/d82fab07-a030-48b0-982e-de8421642ca8" /># 黑神话悟空游戏截图 Skill 使用说明
 
 将用户上传的照片或图片转换为 16:9 的《黑神话：悟空》式写实东方暗黑动作游戏画面，并根据所选模式融合固定界面素材。
 
 > 本项目为非官方图像处理工作流，与游戏开发商及发行商无关联。游戏名称、截图、界面和角色形象等相关权利归其权利人所有，请在合法授权范围内使用相关素材和生成结果。
+
+## 生成图片示例
+<img width="1672" height="941" alt="acc7dfdf-f581-4646-92bc-a4de4979c8f2" src="https://github.com/user-attachments/assets/6a22e48d-1def-47ef-be5e-4d6da603ce75" />
+<img width="1672" height="941" alt="1eedd4cc-a1aa-4a92-aba5-dfe94d5e3bf7" src="https://github.com/user-attachments/assets/1b39141f-bce6-4a10-98c6-41d9461b9e84" />
+
+### 更多示例可以参考我的抖音视频
+1.23 复制打开抖音，看看【月迷津渡（日常版）的图文作品】拍的废片不妨放进黑神话的世界里玩一圈。自己搓了一个... https://v.douyin.com/tuADI296Iuo/ 04/12 s@E.HI :4pm CuF:/ 
 
 ## 主要功能
 
