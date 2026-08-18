@@ -1,4 +1,4 @@
-<img width="1672" height="941" alt="acc7dfdf-f581-4646-92bc-a4de4979c8f2" src="https://github.com/user-attachments/assets/d82fab07-a030-48b0-982e-de8421642ca8" /># 黑神话悟空游戏截图 Skill 使用说明
+# 黑神话悟空游戏截图 Skill 使用说明
 
 将用户上传的照片或图片转换为 16:9 的《黑神话：悟空》式写实东方暗黑动作游戏画面，并根据所选模式融合固定界面素材。
 
